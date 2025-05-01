@@ -1,5 +1,5 @@
 
-<p align="center">                                                  RAHZAYN MD 
+<p align="center">                                                  𝑹𝑨𝑯𝒁𝑨𝒀𝑵 𝑴𝑫 
   
 
 </p>
@@ -21,7 +21,7 @@
 
 #### SETUP 
 
-- <a href="https://github.com/ballon-king/BONIPHACE-XMD-1/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/rahzyn/RAHZAYN-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -41,6 +41,6 @@
 
 2. `If You Have a Heroku Account`
 
-  - <a align="center"><a href="https://github.com/rahzyn/RAHZAYN-MD/edit/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/rahzyn/RAHZAYN-MD/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
