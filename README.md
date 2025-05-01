@@ -26,7 +26,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-- <a href="https://boniphacetech.onrender.com/"><img title="SESSION SITE" src="https://img.shields.io/badge/SESSION SITE-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://rahzayn-3.onrender.com"><img title="SESSION SITE" src="https://img.shields.io/badge/SESSION SITE-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 #### DEPLOY TO HEROKU 
 1. `If You Don't Have An Account On Heroku`
