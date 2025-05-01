@@ -1,5 +1,5 @@
 
-<p align="center">                                                  𝑹𝑨𝑯𝒁𝑨𝒀𝑵 𝑴𝑫 
+<p align="center">                                                 ❤ 𝑹𝑨𝑯𝒁𝑨𝒀𝑵 𝑴𝑫 ❤
   
 
 </p>
@@ -12,7 +12,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+RAHZAYN-MD+MADE+IN+TANZANIA+🇹🇿♥😜🇹🇿" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝑀𝐴𝐷𝐸+𝐵𝑌+𝑅𝐴𝐻𝑍𝐴𝑌𝑁+𝑀𝐷+2025+𝑇𝐻𝐴𝑁𝐾𝑆🥰)](https://git.io/typing-svg)
 
 
 
