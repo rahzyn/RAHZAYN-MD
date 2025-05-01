@@ -1,14 +1,14 @@
 {
-  "name": "✧BONIPHACE_MD✧ MULT DEVICE",
-  "description": "Boniphace Whatsapp device bot made by Boniphace to help Whatsapp users to enjoy while helping...",
+  "name": "😘RAHZAYN-MD😘 MULT DEVICE",
+  "description": "Rahzayn Whatsapp device bot made by Rahzayn to help Whatsapp users to enjoy while helping...",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/yvpwsn.jpeg",
-  "repository": "https://github.com/boniphace478/BONIPHACE-XMD-1",
+  "logo": "https://files.catbox.moe/by0do4.jpg",
+  "repository": "https://github.com/rahzyn/RAHZAYN-MD",
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
@@ -76,7 +76,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "✧BONIPHACE_MD✧",
+      "value": "😘RAHZAYN-MD😘",
       "required": false 
     },
     "CHAT_BOT": {
@@ -91,7 +91,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Insert your Heroku API key (required)",
-      "value": "",
+      "value": "HRKU-b168ec7b-4c34-4578-9f7c-278ba14bd609",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -106,12 +106,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "Boniphace",
+      "value": "😘RAHZAYN-MD😘",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/ls0m1e.jpeg,https://files.catbox.moe/yvpwsn.jpeg",
+      "value": "https://files.catbox.moe/by0do4.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -121,7 +121,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255794373476')",
-      "value": "255794373476",
+      "value": "255693629079",
       "required": false
     },
     "WARN_COUNT": {
@@ -136,7 +136,7 @@
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 for online, 2 for typing, 3 for recording, or leave blank for real state",
-      "value": "1",
+      "value": "2",
       "required": false
     },
     "ANTI_DELETE_MESSAGE": {
