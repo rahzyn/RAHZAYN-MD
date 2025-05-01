@@ -1,18 +1,18 @@
 
-<p align="center">                                                  BONIPHACE XMD 
+<p align="center">                                                  RAHZAYN MD 
   
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VarN0780Qeatn8cklB0E">
-    <img alt=Support height="390" src="https://files.catbox.moe/yvpwsn.jpeg"> 
+  <a href="https://whatsapp.com/channel/0029VatokI45EjxufALmY32X">
+    <img alt=Support height="390" src="https://files.catbox.moe/by0do4.jpg"> 
     </p>
  
  
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BONIPHACE-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+RAHZAYN-MD+MADE+IN+TANZANIA+🇹🇿♥😜🇹🇿" alt="Typing SVG" /></a>
 
 
 
@@ -41,6 +41,6 @@
 
 2. `If You Have a Heroku Account`
 
-  - <a align="center"><a href="https://boniphace.vercel.app/"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - <a align="center"><a href="https://github.com/rahzyn/RAHZAYN-MD/edit/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
