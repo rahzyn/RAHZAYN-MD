@@ -33,36 +33,36 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭──────────────────❤
-┊❤╭─── *😘RAHZAYN-MD😘* ────❤
-┊❤┊ *User* : ${s.OWNER_NAME}
-┊❤┊ *Mode* : ${mode}
-┊❤╰───────────────❤
-┊❤┊ *Time* : ${temps}  
-┊❤┊ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┊❤╰───────────────❤
-╰──────────────────❤ \n\n`;
+╭──────────────────🍁
+┊🍁╭─── *😘RAHZAYN-MD😘* ────🍁
+┊🍁┊ *User* : ${s.OWNER_NAME}
+┊🍁┊ *Mode* : ${mode}
+┊🍁╰───────────────🍁
+┊🍁┊ *Time* : ${temps}  
+┊🍁┊ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+┊🍁╰───────────────🍁
+╰──────────────────🍁 \n\n`;
  
     let menuMsg=`  
   *😘RAHZAYN-MD😘 COMMANDS*
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭────❤* *${cat}* *❤*`;
+        menuMsg += `*╭────🍁* *${cat}* *❤*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
-*┊❤* ${cmd}`;
+*┊🍁* ${cmd}`;
         }
         menuMsg += `
-*╰═════════════❤* \n`
+*╰═════════════🍁* \n`
     }
 
     menuMsg += `
 ◇            ◇
-*—————❤❤❤❤—————*
+*—————🍁🍁🍁🍁—————*
 
    *POWERED BY 😘RAHZAYN-MD😘*                                         
-*╰═════════════❤*
+*╰═════════════🍁*
 `;
 
    var lien = mybotpic();
