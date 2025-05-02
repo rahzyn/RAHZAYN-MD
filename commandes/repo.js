@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-          *😘RAHZAYN-MD😘 BOT INFO* 
+     *😘RAHZAYN-MD😘 BOT INFO* 
 ❒───────────────────❒
 
 *GITHUB LINK*
