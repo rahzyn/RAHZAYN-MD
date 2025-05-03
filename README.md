@@ -270,5 +270,4 @@
 
 
 
-     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒚𝒐𝒖𝒓+𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝒅𝒐𝒏𝒕+𝑭𝒐𝒓𝒈𝒆𝒕+𝒕𝒐+𝒇𝒐𝒓𝒌+𝑴𝒚𝒓𝒆𝒑𝒐+𝑪𝒓𝒆𝒂𝒕𝒆𝒅+𝑩𝒚+𝑹𝒂𝒉𝒛𝒂𝒚𝒏+𝑴𝒅)](https://git.io/typing-svg)
-
+     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝑇𝐻𝐴𝑁𝐾𝑆+𝐹𝑂𝑅+𝑌𝑂𝑈𝑅+𝑆𝑈𝑃𝑃𝑂𝑅𝑇+𝑅𝐴𝐻𝑍𝐴𝑌𝑁🥰+𝑀𝐷+𝐴𝐿𝑊𝐴𝑌𝑆)](https://git.io/typing-svg)
