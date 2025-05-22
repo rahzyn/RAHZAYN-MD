@@ -17,7 +17,7 @@ zokou({
   'nomCom': "uptime",
   'desc': "To check runtime",
   'Categorie': "General",
-  'reaction': '🌀',
+  'reaction': '❤️‍🔥',
   'fromMe': "true"
 }, async (_0x4d1cb2, _0x6e67fd, _0x17c78a) => {
   const {
@@ -28,7 +28,7 @@ zokou({
   try {
     await _0x6e67fd.sendMessage(_0x4d1cb2, {
       'audio': {
-        'url': "https://files.catbox.moe/m1wgdb.mp3"
+        'url': "https://files.catbox.moe/7pi2bu.mp3"
       },
       'mimetype': "audio/mp4",
       'ptt': true,
