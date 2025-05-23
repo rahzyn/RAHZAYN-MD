@@ -20,7 +20,7 @@ const runtime = function (seconds) {
 zokou({ nomCom: 'love',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '📄', 
+    reaction: '🫦', 
     fromMe: 'true', 
 
 
@@ -85,7 +85,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T`) 
+                 await repondre(`https://whatsapp.com/channel/0029VatokI45EjxufALmY32X`) 
 
    
 
@@ -105,7 +105,7 @@ zokou({ nomCom: 'rtime',
 
                  await repondre(`ʜᴇʟʟᴏ.... ɪ'ᴍ ʜᴀᴘᴘʏ ᴛᴏ sᴇᴇ ʏᴏᴜ
 
-𝙶𝚁𝙴𝚈𝙵 𝚅𝙴𝙽𝙾𝚇 𝚇𝙼𝚉 ᴏᴡɴᴇʀ sᴀʏs ᴍᴏsᴛ ᴏғ ᴜᴘᴅᴀᴛᴇs ᴀʀᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴄᴏʀɴᴇʀ... ʏᴏᴜ ᴡɪʟʟ ᴇɴᴊᴏʏ ᴍᴏʀᴇ ᴄᴏᴍᴍᴀɴᴅs ᴀs ʜᴇ ᴀᴅᴅs ᴛʜᴇᴍ...
+𝐑𝐚𝐡𝐳𝐚𝐲𝐧 𝐌𝐝💓 ᴏᴡɴᴇʀ sᴀʏs ᴍᴏsᴛ ᴏғ ᴜᴘᴅᴀᴛᴇs ᴀʀᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴄᴏʀɴᴇʀ... ʏᴏᴜ ᴡɪʟʟ ᴇɴᴊᴏʏ ᴍᴏʀᴇ ᴄᴏᴍᴍᴀɴᴅs ᴀs ʜᴇ ᴀᴅᴅs ᴛʜᴇᴍ...
 
 ....ᴜsᴇ ᴍᴇ ᴄᴀʀᴇғᴜʟʟʏ 
 
@@ -128,7 +128,7 @@ zokou({ nomCom: 'channel1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T`) 
+                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029VatokI45EjxufALmY32X`) 
 
    
 
@@ -137,7 +137,7 @@ zokou({ nomCom: 'channel1',
 );
 
 
-zokou({ nomCom: 'pkl',
+zokou({ nomCom: 'zayn',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '🤷', 
@@ -148,7 +148,7 @@ zokou({ nomCom: 'pkl',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Rahmani-md is running...... Love it_*`) 
+                 await repondre(`*_𝐑𝐚𝐡𝐳𝐚𝐲𝐧 𝐌𝐝💓 is running...... FOREVER RAH AND ZAYN Love it_*`) 
 
    
 
@@ -189,7 +189,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top a link to join our group https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T `) 
+                 await repondre(`top a link to join our group https://chat.whatsapp.com/DTnrZzULVtP5r0E9rhoFOj `) 
 
    
 
@@ -198,7 +198,7 @@ zokou({ nomCom: 'group1',
 )
 
 
-zokou({ nomCom: 'scriptpk',
+zokou({ nomCom: 'script',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '🐅', 
@@ -209,7 +209,7 @@ zokou({ nomCom: 'scriptpk',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`tap here to join our support channel https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T`) 
+                 await repondre(`tap here to join our support channel https://whatsapp.com/channel/0029VatokI45EjxufALmY32X`) 
 
 
 
@@ -217,7 +217,7 @@ zokou({ nomCom: 'scriptpk',
 )
 
 
-zokou({ nomCom: 'greyf',
+zokou({ nomCom: 'rahzayn',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '🤷', 
@@ -228,7 +228,7 @@ zokou({ nomCom: 'greyf',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_YESS....I'M LISTENING TO YOU_*`) 
+                 await repondre(`*_YESS...MY LOVE 🙈🥰 I'M LISTENING TO YOU_*`) 
 
    
 
@@ -248,7 +248,7 @@ zokou({ nomCom: 'me',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*check the developer via https://wa.me/c/255765902829*`) 
+                 await repondre(`*check the developer via https://wa.me/c/255+255712634607*`) 
 
    
 
@@ -269,19 +269,19 @@ zokou({ nomCom: 'problem',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(` ┏━━━━━━━━━━━━━━
-┃𝙶𝚁𝙴𝚈𝙵 𝚅𝙴𝙽𝙾𝚇 𝚇𝙼𝚉-BOT 🎉🎉🎉 
-| THUG 
-┃LIFE💀
+┃𝐑𝐚𝐡𝐳𝐚𝐲𝐧 𝐌𝐝💓-BOT 🎉🎉🎉 
+| lover 
+┃girl🥰
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 Rahmani 𖥘
+❶ || Creator = 𖥘 Rahzayn 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://wa.me/c/255765902829 👈
+Wanna talk to me?👉 https://wa.me/c/255712634607 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-© *𝙶𝚁𝙴𝚈𝙵 𝚅𝙴𝙽𝙾𝚇 𝚇𝙼𝚉 *`) 
+© *𝐑𝐚𝐡𝐳𝐚𝐲𝐧 𝐌𝐝💓 *`) 
 
    
 
