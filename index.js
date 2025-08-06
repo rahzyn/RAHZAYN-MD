@@ -1570,7 +1570,7 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("QART_XMD is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading QART_XMD Commands ...\n");
-                fs.readdirSync(__dirname + " commandes").forEach((fichier) => {
+                fs.readdirSync(__dirname + " index").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
                             require(__dirname + "/commandes/" + fichier);
