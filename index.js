@@ -231,7 +231,7 @@ async function getAIResponse(query) {
             }
 
             if (isIdentityQuestion) {
-                aiResponse = `I'm QART-XMD, created by Rahmani! 🚀\n\n${aiResponse}`;
+                aiResponse = `I'm RAHZAYN-MD, created by Rahmani! 🚀\n\n${aiResponse}`;
             }
             
             return aiResponse;
@@ -1960,22 +1960,22 @@ const {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ QART-XMD is connecting...");
+                console.log("ℹ️ RAHZAYN-MD is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ QART-XMD Connected to WhatsApp! ☺️");
+                console.log("✅ RAHZAYN-MD Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("QART-XMD is Online 🕸\n\n");
+                console.log("RAHZAYN-MD is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading QART-XMD Commands ...\n");
-                fs.readdirSync(__dirname + "/Qartey").forEach((fichier) => {
+                console.log("Loading RAHZAYN-MD Commands ...\n");
+                fs.readdirSync(__dirname + "/index").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/Qartey/" + fichier);
+                            require(__dirname + "/commandes/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
